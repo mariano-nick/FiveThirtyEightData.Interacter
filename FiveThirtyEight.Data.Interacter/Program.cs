@@ -26,7 +26,7 @@ namespace FiveThirtyEightData.Interacter
 
             foreach (CollegeMajor cm in records)
             {
-                // do things
+                // do things well
             }
         }
     }
